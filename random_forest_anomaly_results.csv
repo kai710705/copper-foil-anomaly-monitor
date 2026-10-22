@@ -1,0 +1,2 @@
+﻿accuracy,precision_weighted,recall_weighted,f1_weighted,roc_auc,model_path
+0.98,0.9842105263157894,0.98,0.9810671809707489,0.994954954954955,random_forest_anomaly_model.joblib
